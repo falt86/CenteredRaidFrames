@@ -2,7 +2,9 @@
 ## Title: Centered Raid Frames
 ## Notes: Automatically centers Blizzard raid frames when raid size changes
 ## Author: Derick
+
 ## IconTexture: Interface\Addons\CenteredRaidFrames\Assets\Icon.tga
+
 ## Category: Unit Frames
 ## Category-deDE: Einheitenfenster
 ## Category-esES: Marcos de unidades
