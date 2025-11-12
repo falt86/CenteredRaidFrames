@@ -1,0 +1,18 @@
+## Interface: 110205
+## Title: Centered Raid Frames
+## Notes: Automatically centers Blizzard raid frames when raid size changes
+## Author: Derick
+## IconTexture: Interface\Addons\CenteredRaidFrames\Assets\Icon.tga
+## Category: Unit Frames
+## Category-deDE: Einheitenfenster
+## Category-esES: Marcos de unidades
+## Category-esMX: Marcos de unidades
+## Category-frFR: Portraits d'unités
+## Category-itIT: Riquadri delle unità
+## Category-koKR: 개체창
+## Category-ptBR: Quadros de unidade
+## Category-ruRU: Рамки юнитов
+## Category-zhCN: 单位框体
+## Category-zhTW: 單位框架
+
+CenteredRaidFrames.lua
