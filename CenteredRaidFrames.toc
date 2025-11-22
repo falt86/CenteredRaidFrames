@@ -1,4 +1,4 @@
-## Interface: 110205
+## Interface: 120000
 ## Title: Centered Raid Frames
 ## Notes: Automatically centers Blizzard raid frames when raid size changes
 ## Author: Derick
